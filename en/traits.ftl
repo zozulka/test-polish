@@ -8,7 +8,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later AND MIT
 
-trait-funky-name = Fajny Akcent
+trait-funky-name = Гарний акцент
 trait-funky-desc = Dodaj trochę fajności do swoich wypowiedzi.
 trait-british-name = Brytyjski Akcent
 trait-british-desc = Mów jakbyś pochodził z krainy królowej!
